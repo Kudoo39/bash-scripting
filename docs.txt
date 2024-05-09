@@ -1,0 +1,5 @@
+total 3
+-rw-r--r-- 1 npdkh 197121  0 May  7 16:19 docs.txt
+-rw-r--r-- 1 npdkh 197121  4 May  7 16:18 example.txt
+-rw-r--r-- 1 npdkh 197121 37 May  7 15:55 hello.txt
+-rw-r--r-- 1 npdkh 197121  5 May  7 15:52 text.txt
