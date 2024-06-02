@@ -1,7 +1,5 @@
 #!/bin/bash
-
-# day
-# print message
+# Assignment 1
 
 read -p 'Enter a weekday: ' date
 
